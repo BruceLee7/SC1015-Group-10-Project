@@ -51,7 +51,10 @@ From our visualizations, there is a clear correlation between response variables
 
 It can also be seen that current health expenditure brings significant benefits to HALE and domestic private health expenditure has negligible impact on HALE, implying that government expenditure in the healthcare sector is what causes HALE to rise. Furthermore, while both age dependency ratio and population density have a negative impact on both HALE and life expectancy, age dependency ratio affects life expectancy more while population density affects HALE more. 
 
-Given limited resources, our model can inform which areas countries can shift their limited resources in order to increase HALE and LE to ensure everyone lives long, healthy lives.
+Here comes to the end. HALE has indeed many importances. For instance, the most obvious one is that it can help people live longer. Also by staying healthy, your medical bills will be significantly lower. Lower medical costs will often lead to fewer debts and a higher credit score. Lastly, no-one would like to lie in hospitals being visited by others. Higher self-esteem can lead to a more satisfying life. 
+Secondly, Random forest model was the best at predicting life expectancy and HALE out of all the 3 models.
+Lastly, Given limited resources, our model can inform which areas countries can shift their limited resources in order to increase HALE to ensure everyone lives long, healthy lives.
+
 
 ##  Datasets used  
 
