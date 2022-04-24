@@ -64,7 +64,7 @@ Lastly, Given limited resources, our model can inform which areas countries can 
 ### World Bank datasets (https://data.worldbank.org/):    
 1. **% basic sanitation services.csv** : Percentage of population with access to basic sanitation services of all countries from years 2000-2019.
 2. **age dependency ratio.csv** : Age-dependency ratio (ratio of number of dependents e.g. children and elderly to number of workers) as percentage of working-age population of all countries from years 2000-2019.
-3. **c02 emissions mtpc.csv** : CO2 emissions (metric tons per capita) of all countries from years 2000-2019.
+3. **co2 emissions mtpc.csv** : CO2 emissions (metric tons per capita) of all countries from years 2000-2019.
 4. **domestic private health expenditure.csv** : Domestic private health expenditure as a percentage of current health expenditure of all countries from years 2000-2019.
 5. **gdppc.csv** : Gross Domestic Product (GDP) per capita of all countries from years 2000-2019.
 6. **health expenditure %gdp.csv** : Health expenditure as a percentage of GDP of all countries from years 2000-2019.
